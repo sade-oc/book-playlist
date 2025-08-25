@@ -13,4 +13,3 @@ streamlit_app/      # optional UI
 notebooks/          # experiments/EDA
 examples/           # sample prompts/output
 tests/              # unit tests (later)
-EOF
