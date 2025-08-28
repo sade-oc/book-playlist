@@ -1,92 +1,114 @@
 {
   "tracks": [
     {
-      "name": "Show Me Your Face / Yahweh",
-      "artist": "Red Worship",
-      "id": "5uwTwYQRMEZ2KOCZAhSmUO",
-      "popularity": 46,
-      "genres": "worship",
-      "album": "Presence People",
-      "release_date": "2025-03-21",
+      "name": "Haunted",
+      "artist": "Luke Bower",
+      "id": "6xhWqGaW9Uqrc87ztIjlQ2",
+      "popularity": 43,
+      "genres": "christian folk, christian country, christian",
+      "album": "Man On Fire (Deluxe)",
+      "release_date": "2024-06-21",
       "explicit": false,
-      "duration_ms": 538208
+      "duration_ms": 245920
     },
     {
-      "name": "Firm Foundation (He Won\u2019t)",
-      "artist": "Cody Carnes",
-      "id": "39Gs7AuV2vXLopvvIiBaP4",
-      "popularity": 62,
-      "genres": "worship, christian",
-      "album": "Firm Foundation (Live)",
-      "release_date": "2023-08-25",
-      "explicit": false,
-      "duration_ms": 382174
+      "name": "Under The Influence",
+      "artist": "Chris Brown",
+      "id": "5IgjP7X4th6nMNDh4akUHb",
+      "popularity": 84,
+      "genres": "r&b",
+      "album": "Indigo (Extended)",
+      "release_date": "2019-10-04",
+      "explicit": true,
+      "duration_ms": 184613
     },
     {
-      "name": "No One Like The Lord (We Crown You) - Live",
-      "artist": "Circuit Rider Music",
-      "id": "2bc8dK2VSBuLHMkqDfT8k1",
-      "popularity": 50,
-      "genres": "worship",
-      "album": "No One Like The Lord (We Crown You) [Live]",
-      "release_date": "2024-06-07",
-      "explicit": false,
-      "duration_ms": 361401
+      "name": "WHIM WHAMIEE (feat. YKNIECE)",
+      "artist": "PLUTO",
+      "id": "177s589pGfNvcIX07n2Ecl",
+      "popularity": 69,
+      "genres": "",
+      "album": "BOTH WAYS",
+      "release_date": "2025-06-20",
+      "explicit": true,
+      "duration_ms": 141538
     },
     {
-      "name": "Hard Fought Hallelujah (with Jelly Roll)",
-      "artist": "Brandon Lake",
-      "id": "0ZWQT5FqDfSmpYXqhJ1nhA",
-      "popularity": 63,
-      "genres": "worship, christian",
-      "album": "King Of Hearts",
-      "release_date": "2025-06-13",
-      "explicit": false,
-      "duration_ms": 316002
+      "name": "Im So ATL",
+      "artist": "Bankroll Ni",
+      "id": "5jZxV3cIOVac9NObhBWfVX",
+      "popularity": 65,
+      "genres": "",
+      "album": "Im So ATL",
+      "release_date": "2025-04-18",
+      "explicit": true,
+      "duration_ms": 124782
     },
     {
-      "name": "Touch Of Heaven - Live",
-      "artist": "Hillsong Worship",
-      "id": "0X7KcOQdOeAuHQjURq0PVL",
-      "popularity": 55,
-      "genres": "worship, christian, pop worship, ccm, gospel",
-      "album": "There Is More",
-      "release_date": "2018-04-06",
+      "name": "Je te laisserai des mots",
+      "artist": "Patrick Watson",
+      "id": "44A0o4jA8F2ZF03Zacwlwx",
+      "popularity": 82,
+      "genres": "",
+      "album": "Je te laisserai des mots",
+      "release_date": "2010-09-10",
       "explicit": false,
-      "duration_ms": 427546
+      "duration_ms": 160853
     },
     {
-      "name": "All Hail King Jesus (Live)",
-      "artist": "Bethel Music",
-      "id": "0dr0OZdQlpGhQizJSm0gMr",
-      "popularity": 64,
+      "name": "Come Forth",
+      "artist": "CAIN",
+      "id": "7G9od7QNw1snBdtiyBE5Eu",
+      "popularity": 45,
+      "genres": "christian, worship, christian country, christian pop, ccm",
+      "album": "Rise Up",
+      "release_date": "2021-05-07",
+      "explicit": false,
+      "duration_ms": 156199
+    },
+    {
+      "name": "Wide As The Sky - Live",
+      "artist": "Matt Redman",
+      "id": "0E4c6Nu7s65KQwYTsbfEr0",
+      "popularity": 30,
       "genres": "worship, christian, pop worship, ccm",
-      "album": "Homecoming (Live)",
-      "release_date": "2021-09-24",
+      "album": "Your Grace Finds Me (Live)",
+      "release_date": "2014-01-01",
       "explicit": false,
-      "duration_ms": 336932
+      "duration_ms": 311133
     },
     {
-      "name": "Lace Up Your Boots (Spontaneous)",
-      "artist": "Circuit Rider Music",
-      "id": "3mv1T5wMFe7XA6v5PjOMk9",
-      "popularity": 46,
-      "genres": "worship",
-      "album": "i've been meaning to say this...",
-      "release_date": "2025-04-25",
+      "name": "Our God Reigns (Psalm 47) - Live",
+      "artist": "Cody Carnes",
+      "id": "10XJudcjQ039tT3jtzdkrO",
+      "popularity": 31,
+      "genres": "worship, christian",
+      "album": "God Is Good! (Live)",
+      "release_date": "2022-09-30",
       "explicit": false,
-      "duration_ms": 277450
+      "duration_ms": 345916
     },
     {
-      "name": "Way Maker - Live",
-      "artist": "Leeland",
-      "id": "3w3FVxMsBMHKaElaJPnkRD",
-      "popularity": 70,
-      "genres": "worship, christian, ccm, pop worship",
-      "album": "Better Word (Live)",
-      "release_date": "2019-09-13",
+      "name": "Your Will",
+      "artist": "Lee Vasi",
+      "id": "3c06N48ZgdY9eCHQ1HBJde",
+      "popularity": 50,
+      "genres": "gospel r&b, christian pop, christian hip hop",
+      "album": "Your Will",
+      "release_date": "2024-02-09",
       "explicit": false,
-      "duration_ms": 503240
+      "duration_ms": 149538
+    },
+    {
+      "name": "The Blessing (Live)",
+      "artist": "Elevation Worship",
+      "id": "5O306r2a9Nl7rm5ZlaTqka",
+      "popularity": 67,
+      "genres": "worship, christian, ccm, gospel, pop worship",
+      "album": "Graves Into Gardens (Live)",
+      "release_date": "2020-05-01",
+      "explicit": false,
+      "duration_ms": 507306
     },
     {
       "name": "joy.",
@@ -100,6 +122,39 @@
       "duration_ms": 233946
     },
     {
+      "name": "Duvet",
+      "artist": "b\u00f4a",
+      "id": "42qNWdLKCI41S4uzfamhFM",
+      "popularity": 84,
+      "genres": "",
+      "album": "Twilight",
+      "release_date": "2001-03-21",
+      "explicit": false,
+      "duration_ms": 203600
+    },
+    {
+      "name": "Kiss Me",
+      "artist": "Sixpence None The Richer",
+      "id": "754kgU5rWscRTfvlsuEwFp",
+      "popularity": 84,
+      "genres": "",
+      "album": "Sixpence None The Richer",
+      "release_date": "1997-11-22",
+      "explicit": false,
+      "duration_ms": 208680
+    },
+    {
+      "name": "10K",
+      "artist": "KB",
+      "id": "6RSQJWAsHqCAqhH9cgStE5",
+      "popularity": 59,
+      "genres": "christian hip hop, christian, christian pop",
+      "album": "His Glory Alone",
+      "release_date": "2020-09-25",
+      "explicit": false,
+      "duration_ms": 196132
+    },
+    {
       "name": "Worthy",
       "artist": "Elevation Worship",
       "id": "7qqtTPQIMXAFubamFBPHG5",
@@ -111,81 +166,15 @@
       "duration_ms": 371616
     },
     {
-      "name": "Gratitude / Worthy of it All / You\u2019re Worthy of My Praise (feat. Brandon Lake, Natalie Grant & Mav City Gospel Choir)",
-      "artist": "Maverick City Music",
-      "id": "0KWGmjdgmpuovXuwWDrDt4",
-      "popularity": 43,
-      "genres": "worship, gospel, christian",
-      "album": "A Very Maverick Christmas",
-      "release_date": "2021-11-30",
+      "name": "Get Behind Me (feat. Zach Williams)",
+      "artist": "Emerson Day",
+      "id": "1TQoteChnevdwvlnOzYmDB",
+      "popularity": 52,
+      "genres": "christian country, christian, christian rock",
+      "album": "Get Behind Me (feat. Zach Williams)",
+      "release_date": "2025-03-28",
       "explicit": false,
-      "duration_ms": 792155
-    },
-    {
-      "name": "Who Else - Live",
-      "artist": "Chroma Worship",
-      "id": "6TlS86cIp0jP04xBm8BnFd",
-      "popularity": 48,
-      "genres": "worship",
-      "album": "Who Else (Live)",
-      "release_date": "2024-07-26",
-      "explicit": false,
-      "duration_ms": 569398
-    },
-    {
-      "name": "Agnus Dei - Live",
-      "artist": "Tasha Cobbs Leonard",
-      "id": "2zSokIMYeayfu5SlZ6WySJ",
-      "popularity": 33,
-      "genres": "gospel, worship",
-      "album": "Hymns (Live)",
-      "release_date": "2022-10-07",
-      "explicit": false,
-      "duration_ms": 85568
-    },
-    {
-      "name": "We Want Revival",
-      "artist": "Red Worship",
-      "id": "7MD3EXoGK3qdf3aqoKW8tw",
-      "popularity": 44,
-      "genres": "worship",
-      "album": "Presence People",
-      "release_date": "2025-03-21",
-      "explicit": false,
-      "duration_ms": 339724
-    },
-    {
-      "name": "Forever and Ever Amen (feat. Brandon Lake, Phil Wickham & Mav City Gospel Choir)",
-      "artist": "Maverick City Music",
-      "id": "1TNnbX5BH2wgwiK0NUCKlX",
-      "popularity": 34,
-      "genres": "worship, gospel, christian",
-      "album": "A Very Maverick Christmas",
-      "release_date": "2021-11-30",
-      "explicit": false,
-      "duration_ms": 614675
-    },
-    {
-      "name": "Awake",
-      "artist": "Sam Rivera",
-      "id": "6XXWYTxvsOutaFSDw3YZzo",
-      "popularity": 42,
-      "genres": "gospel r&b, christian pop, christian hip hop, christian, cedm, pop worship",
-      "album": "Awake",
-      "release_date": "2025-02-13",
-      "explicit": false,
-      "duration_ms": 167288
-    },
-    {
-      "name": "Bloodline (with Jelly Roll)",
-      "artist": "Alex Warren",
-      "id": "2qPQcfUgizNDOIv1orkTAd",
-      "popularity": 78,
-      "genres": "",
-      "album": "You'll Be Alright, Kid",
-      "release_date": "2025-07-18",
-      "explicit": false,
-      "duration_ms": 182008
+      "duration_ms": 193000
     },
     {
       "name": "Promises (feat. Joe L Barnes)",
@@ -199,33 +188,51 @@
       "duration_ms": 646239
     },
     {
-      "name": "BRING HEAVEN DOWN",
-      "artist": "Hulvey",
-      "id": "73HaBYHGkb2uYTvRmKaf4u",
-      "popularity": 53,
-      "genres": "christian hip hop, gospel r&b, christian, christian pop, worship",
-      "album": "BRING HEAVEN DOWN",
-      "release_date": "2025-01-31",
+      "name": "Touch Of Heaven - Live",
+      "artist": "Hillsong Worship",
+      "id": "0X7KcOQdOeAuHQjURq0PVL",
+      "popularity": 55,
+      "genres": "worship, christian, pop worship, ccm, gospel",
+      "album": "There Is More",
+      "release_date": "2018-04-06",
       "explicit": false,
-      "duration_ms": 139711
+      "duration_ms": 427546
     },
     {
-      "name": "Haunted",
-      "artist": "Luke Bower",
-      "id": "6xhWqGaW9Uqrc87ztIjlQ2",
-      "popularity": 43,
-      "genres": "christian folk, christian country, christian",
-      "album": "Man On Fire (Deluxe)",
-      "release_date": "2024-06-21",
+      "name": "Jesus Your Name - Live",
+      "artist": "htb worship",
+      "id": "1GVnsWXWZUrfkzkIUZPh5Q",
+      "popularity": 31,
+      "genres": "worship",
+      "album": "Jesus Your Name (Live)",
+      "release_date": "2025-07-11",
       "explicit": false,
-      "duration_ms": 245920
+      "duration_ms": 279662
+    },
+    {
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "artist": "Bad Bunny",
+      "id": "1IHWl5LamUGEuP4ozKQSXZ",
+      "popularity": 83,
+      "genres": "reggaeton, trap latino, urbano latino, latin",
+      "album": "Un Verano Sin Ti",
+      "release_date": "2022-05-06",
+      "explicit": true,
+      "duration_ms": 243716
     }
   ],
   "summary": {
+    "top_tracks": [
+      "Haunted",
+      "Under The Influence",
+      "WHIM WHAMIEE (feat. YKNIECE)",
+      "Im So ATL",
+      "Je te laisserai des mots"
+    ],
     "top_artists": [
       "Maverick City Music",
-      "Brandon Lake",
       "Forrest Frank",
+      "Brandon Lake",
       "Elevation Worship",
       "Nicki Minaj",
       "Bethel Music",
@@ -241,6 +248,6 @@
       "christian pop",
       "christian hip hop"
     ],
-    "avg_popularity": 53.45
+    "avg_popularity": 60.45
   }
 }

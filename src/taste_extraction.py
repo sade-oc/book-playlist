@@ -16,7 +16,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
 ))
 
 # Get user's top tracks
-top_tracks = sp.current_user_top_tracks(limit=20, time_range='medium_term')  # last 6 months
+top_tracks = sp.current_user_top_tracks(limit=20, time_range='short_term')  # last 4 weeks
 
 tracks_data = []
 artist_cache = {}  # cache for artist genres
@@ -48,7 +48,8 @@ top_artists = sp.current_user_top_artists(limit=10, time_range='medium_term')
 genres = [g for artist in top_artists['items'] for g in artist.get('genres', [])]
 unique_genres = list(dict.fromkeys(genres))
 
-taste_summary = {
+taste_summary = {    
+    "top_tracks": [t['name'] for t in top_tracks['items'][:5]],
     "top_artists": [artist['name'] for artist in top_artists['items']],
     "top_genres": unique_genres[:5],
     "avg_popularity": round(sum(t['popularity'] for t in top_tracks['items']) / len(top_tracks['items']), 2),
@@ -68,6 +69,7 @@ with open("examples/user_taste_summary.json", "w") as f:
 
 print("\nUser music taste extracted to examples/user_top_tracks.csv")
 print("\nTaste summary:")
+print("Top tracks:", ", ".join(taste_summary['top_tracks']))
 print("Top artists:", ", ".join(taste_summary['top_artists']))
 print("Top genres:", ", ".join(taste_summary['top_genres']))
 print("Average popularity:", taste_summary['avg_popularity'])
