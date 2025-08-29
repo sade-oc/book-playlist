@@ -12,17 +12,6 @@
       "duration_ms": 245920
     },
     {
-      "name": "Under The Influence",
-      "artist": "Chris Brown",
-      "id": "5IgjP7X4th6nMNDh4akUHb",
-      "popularity": 84,
-      "genres": "r&b",
-      "album": "Indigo (Extended)",
-      "release_date": "2019-10-04",
-      "explicit": true,
-      "duration_ms": 184613
-    },
-    {
       "name": "WHIM WHAMIEE (feat. YKNIECE)",
       "artist": "PLUTO",
       "id": "177s589pGfNvcIX07n2Ecl",
@@ -54,6 +43,17 @@
       "release_date": "2010-09-10",
       "explicit": false,
       "duration_ms": 160853
+    },
+    {
+      "name": "Under The Influence",
+      "artist": "Chris Brown",
+      "id": "5IgjP7X4th6nMNDh4akUHb",
+      "popularity": 84,
+      "genres": "r&b",
+      "album": "Indigo (Extended)",
+      "release_date": "2019-10-04",
+      "explicit": true,
+      "duration_ms": 184613
     },
     {
       "name": "Come Forth",
@@ -89,17 +89,6 @@
       "duration_ms": 345916
     },
     {
-      "name": "Your Will",
-      "artist": "Lee Vasi",
-      "id": "3c06N48ZgdY9eCHQ1HBJde",
-      "popularity": 50,
-      "genres": "gospel r&b, christian pop, christian hip hop",
-      "album": "Your Will",
-      "release_date": "2024-02-09",
-      "explicit": false,
-      "duration_ms": 149538
-    },
-    {
       "name": "The Blessing (Live)",
       "artist": "Elevation Worship",
       "id": "5O306r2a9Nl7rm5ZlaTqka",
@@ -111,6 +100,17 @@
       "duration_ms": 507306
     },
     {
+      "name": "Your Will",
+      "artist": "Lee Vasi",
+      "id": "3c06N48ZgdY9eCHQ1HBJde",
+      "popularity": 50,
+      "genres": "gospel r&b, christian pop, christian hip hop",
+      "album": "Your Will",
+      "release_date": "2024-02-09",
+      "explicit": false,
+      "duration_ms": 149538
+    },
+    {
       "name": "joy.",
       "artist": "for KING & COUNTRY",
       "id": "0vBjd0I8iefycEZ2ex1Zpi",
@@ -120,17 +120,6 @@
       "release_date": "2018-10-05",
       "explicit": false,
       "duration_ms": 233946
-    },
-    {
-      "name": "Duvet",
-      "artist": "b\u00f4a",
-      "id": "42qNWdLKCI41S4uzfamhFM",
-      "popularity": 84,
-      "genres": "",
-      "album": "Twilight",
-      "release_date": "2001-03-21",
-      "explicit": false,
-      "duration_ms": 203600
     },
     {
       "name": "Kiss Me",
@@ -155,15 +144,26 @@
       "duration_ms": 196132
     },
     {
-      "name": "Worthy",
-      "artist": "Elevation Worship",
-      "id": "7qqtTPQIMXAFubamFBPHG5",
-      "popularity": 69,
-      "genres": "worship, christian, ccm, gospel, pop worship",
-      "album": "Hallelujah Here Below",
-      "release_date": "2018-09-28",
+      "name": "Dusty Bibles",
+      "artist": "Josiah Queen",
+      "id": "1GvJ35amuk7oGjcnoYSKFA",
+      "popularity": 57,
+      "genres": "christian folk, christian, worship, christian pop",
+      "album": "Mt. Zion",
+      "release_date": "2025-08-22",
       "explicit": false,
-      "duration_ms": 371616
+      "duration_ms": 190266
+    },
+    {
+      "name": "Duvet",
+      "artist": "b\u00f4a",
+      "id": "42qNWdLKCI41S4uzfamhFM",
+      "popularity": 84,
+      "genres": "",
+      "album": "Twilight",
+      "release_date": "2001-03-21",
+      "explicit": false,
+      "duration_ms": 203600
     },
     {
       "name": "Get Behind Me (feat. Zach Williams)",
@@ -188,17 +188,6 @@
       "duration_ms": 646239
     },
     {
-      "name": "Touch Of Heaven - Live",
-      "artist": "Hillsong Worship",
-      "id": "0X7KcOQdOeAuHQjURq0PVL",
-      "popularity": 55,
-      "genres": "worship, christian, pop worship, ccm, gospel",
-      "album": "There Is More",
-      "release_date": "2018-04-06",
-      "explicit": false,
-      "duration_ms": 427546
-    },
-    {
       "name": "Jesus Your Name - Live",
       "artist": "htb worship",
       "id": "1GVnsWXWZUrfkzkIUZPh5Q",
@@ -219,15 +208,26 @@
       "release_date": "2022-05-06",
       "explicit": true,
       "duration_ms": 243716
+    },
+    {
+      "name": "All Hail King Jesus (Live)",
+      "artist": "Bethel Music",
+      "id": "0dr0OZdQlpGhQizJSm0gMr",
+      "popularity": 64,
+      "genres": "worship, christian, pop worship, ccm",
+      "album": "Homecoming (Live)",
+      "release_date": "2021-09-24",
+      "explicit": false,
+      "duration_ms": 336932
     }
   ],
   "summary": {
     "top_tracks": [
       "Haunted",
-      "Under The Influence",
       "WHIM WHAMIEE (feat. YKNIECE)",
       "Im So ATL",
-      "Je te laisserai des mots"
+      "Je te laisserai des mots",
+      "Under The Influence"
     ],
     "top_artists": [
       "Maverick City Music",
@@ -248,6 +248,6 @@
       "christian pop",
       "christian hip hop"
     ],
-    "avg_popularity": 60.45
+    "avg_popularity": 60.3
   }
 }
