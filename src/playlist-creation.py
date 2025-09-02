@@ -83,6 +83,7 @@ playlist = json.loads(json_match.group()) if json_match else []
 
 # Step 6: Extract explanation
 explanation_match = re.search(r"EXPLANATION:\s*(.*)", output, re.DOTALL)
+
 explanation = explanation_match.group(1).strip() if explanation_match else "No explanation found."
 
 # Step 7: Create Spotify playlist
@@ -94,18 +95,22 @@ playlist_id = new_playlist["id"]
 print(f"Created playlist: {playlist_name}")
 
 # >>> NEW CODE <<< Fetch book cover and upload to playlist
-google_books_url = f"https://www.googleapis.com/books/v1/volumes?q=intitle:{book_title}"
+if book_title.replace("-", "").isdigit():  # if user gave an ISBN
+    google_books_url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{book_title}"
+else:  # assume normal title search
+    google_books_url = f"https://www.googleapis.com/books/v1/volumes?q=intitle:{book_title}"
+
 res = requests.get(google_books_url).json()
 
-if "items" in res:
-    cover_url = res["items"][0]["volumeInfo"]["imageLinks"]["thumbnail"]
-    cover_url = cover_url.replace("zoom=1", "zoom=10")
-    img_data = requests.get(cover_url).content
-    image_b64 = base64.b64encode(img_data).decode("utf-8")
-    sp.playlist_upload_cover_image(playlist_id, image_b64)
-    print(f"✅ Uploaded book cover for '{book_title}' as playlist cover!")
+if "items" in res: 
+   cover_url = res["items"][0]["volumeInfo"]["imageLinks"]["thumbnail"]
+   cover_url = cover_url.replace("zoom=1", "zoom=10")
+   img_data = requests.get(cover_url).content
+   image_b64 = base64.b64encode(img_data).decode("utf-8")
+   sp.playlist_upload_cover_image(playlist_id, image_b64)
+   print(f"✅ Uploaded book cover for '{book_title}' as playlist cover!")
 else:
-    print(f"⚠️ Could not find book cover for '{book_title}'.")
+   print(f"⚠️ Could not find book cover for '{book_title}'.")
 
 # Step 8: Search for tracks and add to playlist
 track_ids = []
